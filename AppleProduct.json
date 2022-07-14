@@ -1,0 +1,27 @@
+{
+  "mac": {
+    "macbookPro": [],
+    "macbookAir": []
+  },
+  "ipad": {
+    "ipadMini": [],
+    "ipad": [],
+    "ipadAir": [],
+    "ipadPro": []
+  },
+  "iphone": {
+    "iphone11": [],
+    "iphone13": [],
+    "iphone13Pro": []
+  },
+  "watch": {
+    "appleWatchNike": [],
+    "apppleWatchSe": [],
+    "appleWatchSeries7": []
+  },
+  "airpods": {
+    "airpods2": [],
+    "airpodsPro": [],
+    "airpodsMax": []
+  }
+}
